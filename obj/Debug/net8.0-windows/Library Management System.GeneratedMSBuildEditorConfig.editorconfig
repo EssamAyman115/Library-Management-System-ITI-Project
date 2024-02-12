@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Library_Management_System
-build_property.ProjectDir = C:\Users\essam\OneDrive\Desktop\Library-Management-System-ITI-Project\Library Management System\
+build_property.ProjectDir = C:\Users\essam\OneDrive\Desktop\Library-Management-System-ITI-Project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
