@@ -4168,24 +4168,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\essam\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\AL-MOMEN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\essam\\OneDrive\\Desktop\\Library-Management-System-ITI-Project\\Library Management System.csproj",
+      "projectUniqueName": "F:\\Library Project V2\\Library-Management-System-ITI-Project\\Library Management System.csproj",
       "projectName": "Library Management System",
-      "projectPath": "C:\\Users\\essam\\OneDrive\\Desktop\\Library-Management-System-ITI-Project\\Library Management System.csproj",
-      "packagesPath": "C:\\Users\\essam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\essam\\OneDrive\\Desktop\\Library-Management-System-ITI-Project\\obj\\",
+      "projectPath": "F:\\Library Project V2\\Library-Management-System-ITI-Project\\Library Management System.csproj",
+      "packagesPath": "C:\\Users\\AL-MOMEN\\.nuget\\packages\\",
+      "outputPath": "F:\\Library Project V2\\Library-Management-System-ITI-Project\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\essam\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\AL-MOMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
